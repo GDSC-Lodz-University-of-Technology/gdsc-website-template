@@ -27,11 +27,11 @@
   },
   {
     "name": "Python beginner projects",
-    "difficulty": "BASIC-INTERMEDIATE",
+    "difficulty": "BASIC",
     "technologies": [
       "Python"
     ],
-    "description": "A bunch of cool beginner and intermediate project ideas, especially useful for getting familiar with Python. You're not required to do many of them - just try whichever you feel like doing. Projects are diversified and involve many different fields like webscraping, data dashboards, simulations, etc. so you can choose depending on what skills you would like to aquire. Take a look at the README to learn more about the propositions.",
+    "description": "A bunch of cool beginner to intermediate project ideas, especially useful for getting familiar with Python. You're not required to do many of them - just try whichever you feel like doing. Projects are diversified and involve many different fields like webscraping, data dashboards, simulations, etc. so you can choose depending on what skills you would like to aquire. Take a look at the README to learn more about the propositions.",
     "readmeUrl": "https://github.com/ashleve/project-proposals/blob/main/PYTHON_PROJECTS.md",
     "pictureUrl": "https://github.com/ashleve/project-proposals/raw/main/.resources/boids.gif"
   }
